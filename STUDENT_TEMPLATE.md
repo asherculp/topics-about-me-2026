@@ -1,4 +1,5 @@
 Who Are You? — GitHub Edition
+---
 
 You've already survived at least one computer science class. Before we get into the real work this year, I want to know a little more about who you are now, what you remember, what you're interested in, and what you want to learn.
 
@@ -39,9 +40,9 @@ What is something you're particularly good at — technology related or not? mak
 
 # Part 2 — You and Computer Science
 
-Rate Yourself
+## Rate Yourself
 
-Using a scale of 1–5, rate your current confidence with each of these:
+Using a scale of 1–5, rate your current *confidence* with each of these:
 
 + Programming: 4.5
 
@@ -59,7 +60,7 @@ Using a scale of 1–5, rate your current confidence with each of these:
 
 + Figuring things out when nobody gives you step-by-step instructions: 3.5
 
-Then answer:
+### Then answer:
 
 Which rating are you most confident about? Why? using the terminal because I've never touched it before
 
@@ -217,7 +218,7 @@ Before submitting, open your repository on GitHub, not just VS Code.
 
 Make sure:
 
-Your README displays correctly.
+Your README **displays** *correctly*.
 
 Your image displays.
 

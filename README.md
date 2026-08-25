@@ -169,6 +169,8 @@ Do not link directly to an image somewhere on the internet.
 
 The actual image file should exist inside your repository.
 
+![image](./images/fileimage.jpg)
+
 Part 8 — Git
 ---
 
