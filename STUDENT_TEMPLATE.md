@@ -21,7 +21,7 @@ topics-about-me/
 
 Your README.md will contain your responses to the questions below.
 
-Part 1 — The Basics
+# Part 1 — The Basics
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
@@ -37,7 +37,7 @@ Outside of school, what are you interested in? making video games
 
 What is something you're particularly good at — technology related or not? making video games
 
-Part 2 — You and Computer Science
+# Part 2 — You and Computer Science
 
 Rate Yourself
 
@@ -65,7 +65,7 @@ Which rating are you most confident about? Why? using the terminal because I've 
 
 Which rating do you most want to improve this year? Why? sing the terminal because i have no clue on how to use it
 
-Part 3 — Pick Your Poison
+# Part 3 — Pick Your Poison
 
 For each pair, bold your choice.
 
@@ -95,7 +95,7 @@ Choose one:
 
 + Cybersecurity or **Data Science**
 
-Part 4 — Your Technology
+# Part 4 — Your Technology
 
 Answer the following:
 
@@ -115,7 +115,7 @@ What is something computers are currently bad at? thinking
 
 What is one technology-related issue you think people your age should care about? ai isn't as useful as we think it is
 
-Part 5 — Build Something
+# Part 5 — Build Something
 
 Imagine I gave you the rest of the semester and said:
 
@@ -159,15 +159,16 @@ Your document must contain all of the following:
 
 [A link](https://github.com/marsh135/topics-about-me-2026) 
 
-An image
+![An image](https://images.unsplash.com/photo-1493612276216-ee3925520721?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tfGVufDB8fDB8fHww)
 
 A horizontal rule
+---
 
-Do not add these randomly at the bottom of the document.
+Do add these randomly at the bottom of the document.
 
 Use them naturally throughout your responses.
 
-Part 7 — Your Image
+# Part 7 — Your Image
 
 Find an appropriate image representing something you enjoy.
 
@@ -181,7 +182,7 @@ Do not link directly to an image somewhere on the internet.
 
 The actual image file should exist inside your repository.
 
-Part 8 — Git
+# Part 8 — Git
 
 You must make at least three commits while completing this assignment.
 
@@ -203,7 +204,7 @@ Add initial questionnaire responses
 Add technology section and formatting
 Add image and finish README
 
-Part 9 — Push to GitHub
+# Part 9 — Push to GitHub
 
 Your final repository on GitHub should contain:
 
