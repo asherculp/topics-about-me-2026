@@ -25,17 +25,17 @@ Part 1 — The Basics
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
-What is your name?
+What is your name? Asher Culp
 
-What computer science class(es) have you taken before?
+What computer science class(es) have you taken before? APCSP
 
-What is something you remember learning in computer science last year?
+What is something you remember learning in computer science last year? how to work github, how to code video games
 
-What is something from last year that you have mostly forgotten?
+What is something from last year that you have mostly forgotten? niche python stuff
 
-Outside of school, what are you interested in?
+Outside of school, what are you interested in? making video games
 
-What is something you're particularly good at — technology related or not?
+What is something you're particularly good at — technology related or not? making video games
 
 Part 2 — You and Computer Science
 
@@ -43,27 +43,27 @@ Rate Yourself
 
 Using a scale of 1–5, rate your current confidence with each of these:
 
-Programming
++ Programming: 4.5
 
-Python
++ Python: 3
 
-Debugging
++ Debugging: 2.5
 
-GitHub
++ GitHub: 4
 
-VS Code
++ VS Code: 5
 
-Working with files and folders
++ Working with files and folders: 5
 
-Using the terminal
++ Using the terminal: 1
 
-Figuring things out when nobody gives you step-by-step instructions
++ Figuring things out when nobody gives you step-by-step instructions: 3.5
 
 Then answer:
 
-Which rating are you most confident about? Why?
+Which rating are you most confident about? Why? using the terminal because I've never touched it before
 
-Which rating do you most want to improve this year? Why?
+Which rating do you most want to improve this year? Why? sing the terminal because i have no clue on how to use it
 
 Part 3 — Pick Your Poison
 
@@ -75,45 +75,45 @@ Python or Java
 
 Choose one:
 
-Python or Java
++  **Python** or Java
 
-Mac or PC
++ Mac or **PC**
 
-GUI or Command Line
++ **GUI** or Command Line
 
-Build something useful or build something ridiculous
++ **Build something useful** or build something ridiculous
 
-Work alone or work with a team
++ **Work alone** or work with a team
 
-Hardware or Software
++ Hardware or **Software**
 
-Fix a bug or start over
++ **Fix a bug** or start over
 
-Google it or figure it out yourself
++ **Google it** or figure it out yourself
 
-Game development or AI
++ **Game development** or AI
 
-Cybersecurity or Data Science
++ Cybersecurity or **Data Science**
 
 Part 4 — Your Technology
 
 Answer the following:
 
-What piece of technology do you use the most?
+What piece of technology do you use the most? a computer
 
 Your answer can be hardware, software, an app, a website, a device, etc.
 
-What technology do you think is overrated?
+What technology do you think is overrated? wired mouse
 
-Explain.
+Explain. a wireless mouse is better and the "delay" isn't even noticable
 
-What technology do you wish existed?
+What technology do you wish existed? a coding language that uses plain english
 
 It can be realistic or completely ridiculous.
 
-What is something computers are currently bad at?
+What is something computers are currently bad at? thinking
 
-What is one technology-related issue you think people your age should care about?
+What is one technology-related issue you think people your age should care about? ai isn't as useful as we think it is
 
 Part 5 — Build Something
 
@@ -123,17 +123,15 @@ Build whatever you want.
 
 You have access to computers, the internet, programming tools, and reasonable school resources.
 
-What would you build?
+What would you build? a video game
 
-Describe:
++ What it would do run
 
-What it would do
++ Who would use it video game enjoyers
 
-Who would use it
++ Why you would want to build it i love making video games
 
-Why you would want to build it
-
-What you would need to learn in order to make it
++ What you would need to learn in order to make it strategies on how to make a game in a few months
 
 Don't worry about whether you currently know how to build it.
 
@@ -141,23 +139,25 @@ Part 6 — Prove You Know Markdown
 
 Your document must contain all of the following:
 
-At least three heading levels
+# At least
+## three heading 
+### levels
 
-Bold text
+**Bold text**
 
-Italic text
+*Italic text*
 
-A bulleted list
+- A bulleted list
 
-A numbered list
+1. A numbered list
 
-A blockquote
+> A blockquote
 
-inline code
+`inline code`
 
-A code block
+```A code block```
 
-A link
+[A link](https://github.com/marsh135/topics-about-me-2026) 
 
 An image
 
